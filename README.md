@@ -12,6 +12,9 @@ NOTE: Make Sure you are having MongoDb Compass installed on your system to view/
       
       You can download the spring Boot project from this repo and import it as a Maven project.Hit Maven Clean -> Clean -> Install for successfull Build .
       The App will start up on port 8080.
+     
+     
+ #Project Functionality : Basically the project provides CRUD operations on USers Table created in MonGoDb.Create/Update/Delete/Find API endpoints are added in UsersController.java. 
       
       
       
